@@ -14,7 +14,7 @@ namespace Frends.Office.Standard
     public class WriteExcelFile
     {
         /// <summary>
-        /// Allows you to write excel files in .xlsx format. Repository: https://github.com/MarcinMichnik-HiQ/Frends.Office
+        /// Allows you to write excel files in .xlsx format. Repository: https://github.com/MarcinMichnik-HiQ/Frends.Office.Standard
         /// </summary>
         /// <param name="input"></param>
         /// <returns>Returns JToken.</returns>

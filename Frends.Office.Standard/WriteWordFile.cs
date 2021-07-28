@@ -13,7 +13,7 @@ namespace Frends.Office.Standard
     public class WriteWordFile
     {
         /// <summary>
-        /// Allows you to write word files in .docx format. Repository: https://github.com/MarcinMichnik-HiQ/Frends.Office
+        /// Allows you to write word files in .docx format. Repository: https://github.com/MarcinMichnik-HiQ/Frends.Office.Standard
         /// </summary>
         /// <param name="input"></param>
         /// <returns>Returns JToken.</returns>

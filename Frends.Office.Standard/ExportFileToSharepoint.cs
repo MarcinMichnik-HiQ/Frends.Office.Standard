@@ -19,7 +19,7 @@ namespace Frends.Office.Standard
     public class ExportFileToSharepoint
     {
         /// <summary>
-        /// Allows you to send files to sharepoint. Repository: https://github.com/MarcinMichnik-HiQ/Frends.Office
+        /// Allows you to send files to sharepoint. Repository: https://github.com/MarcinMichnik-HiQ/Frends.Office.Standard
         /// </summary>
         /// <param name="fileExportInput"></param>
         /// <param name="authentication"></param>
