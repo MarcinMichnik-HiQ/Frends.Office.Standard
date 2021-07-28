@@ -6,9 +6,9 @@ frends Community Task for WriteExcelFile
 
 - [Installing](#installing)
 - [Tasks](#tasks)
-     - WriteExcelFileTask(#WriteExcelFileTask)
-     - WriteWordFileTask(#WriteWordFileTask)
-     - ExportFileToSharepointTask(#ExportFileToSharepointTask)
+     - [WriteExcelFileTask](#WriteExcelFileTask)
+     - [WriteWordFileTask](#WriteWordFileTask)
+     - [ExportFileToSharepointTask](#ExportFileToSharepointTask)
 - [Building](#building)
 - [Contributing](#contributing)
 - [Change Log](#change-log)
